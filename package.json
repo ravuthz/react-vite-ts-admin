@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "react": "^18.0.0",
+    "react-antd-ts": "D:\\ravuthz\\packages\\react-antd-ts",
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
